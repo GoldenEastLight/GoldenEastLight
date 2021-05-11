@@ -2,6 +2,9 @@
 
 ![GoldenEastLight's github stats](https://github-readme-stats.vercel.app/api?username=GoldenEastLight&show_icons=true)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=been0874)](https://solved.ac/been0874)
+
+
 
 <!--
 **GoldenEastLight/GoldenEastLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
